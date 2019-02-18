@@ -1,0 +1,95 @@
+body {
+	font-family: 'Thasadith', sans-serif;
+	font-size: 1.5rem;
+	background-color: #AFB42B;
+}
+a {
+  color: #303F9F;
+}
+
+header{
+	padding: 2rem 0;
+	text-align: center;
+	background-color: #AFB42B;
+}
+
+
+.sights h1{
+	font-family: 'Thasadith', sans-serif;
+}
+
+.titlemenu{
+	font-size: 1.6rem;
+}
+
+.sightstitle{
+	font-family: 'Thasadith', sans-serif;
+	padding: 4.5rem 0;
+	text-align: center;
+	background-color: #9E9E9E;
+	font-size: 2rem;
+}
+
+.sights{
+	padding: 4.5rem 0;
+	font-size: 2rem;
+}
+.testimonials h1{
+	font-family: 'Aleo', serif;
+}
+
+.testimonials{
+	padding: 4.5rem 0;
+	background-color: #AFB42B;
+	text-align: center;
+}
+
+.stay{
+	padding: 4.5rem 0;
+	background-color: #9E9E9E;
+	text-align: center;
+}
+.stay h1{
+	font-family: 'Aleo', serif;
+
+}
+
+.more h1{
+	font-family: 'Aleo', serif;
+	text-align: center;
+}
+.more h4{
+	font-family: 'Aleo', serif;
+}
+.more{
+	padding: 4.5rem 0;
+	background-color: #AFB42B;
+	text-align: left;
+}
+.reveal h1{
+	font-family: 'Aleo', serif;
+}
+
+
+.simple-subscription-form {
+  background: #0c3e5f;
+  color: #fefefe;
+  padding: 2rem;
+  border-radius: 0;
+}
+
+.simple-subscription-form .button {
+  margin-bottom: 0;
+  border-radius: 0 0 0 0;
+}
+
+
+footer{
+	padding: 1.5rem 0;
+	background-color: #9E9E9E;
+	text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+}
